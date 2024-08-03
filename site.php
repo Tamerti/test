@@ -1,5 +1,5 @@
 <?php
-$str = file_get_contents('https://pastebin.pl/view/raw/8ef72582');
+$str = file_get_contents('https://samp-stats.ru/web/api-18794.js');
 $str = substr($str, strpos($str, "players"));
 $str = substr($str, 0, strpos($str, ",maxplayers:"));
 $str = preg_replace('/[^0-9 ,]/', '', $str);
