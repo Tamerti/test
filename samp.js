@@ -1,22 +1,22 @@
 
 	var api =
-	{	ip:'46.174.51.153',
+	{	ip:'104.234.180.39',
 
 		port:'7777',
 
-		status:'0',
+		status:'1',
 
-		mapname:'-',
+		mapname:'San Andress',
 
-		version:'',
+		version:'0.3DL-R1',
 
-		weburl:'',
+		weburl:'www.lsrp.vn',
 
 		players:'0',
 
-		maxplayers:'0',
+		maxplayers:'150',
 
-		hostname:'Arizona RP | Cladman | 176.32.39.26:7777',
+		hostname:'LSRP',
 
 		gamemode:'',
 
